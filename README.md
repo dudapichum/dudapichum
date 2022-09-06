@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**dudapichum/dudapichum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Oie sou a Maria Eduarda, sou estudante de big date e desenvolvimento de sistemas 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="left">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudapichum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudapichum&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
