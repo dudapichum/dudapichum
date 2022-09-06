@@ -1,4 +1,4 @@
-### Oie sou a Maria Eduarda, sou estudante de big date e desenvolvimento de sistemas 👋
+### Oie sou a Maria Eduarda, sou estudante de big data e desenvolvimento de sistemas 👋
 
 Here are some ideas to get you started:
 
