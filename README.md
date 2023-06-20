@@ -4,7 +4,7 @@
  
 📚 Sou estudante de big data para negócios na Fatec Ipiranga 
  
-💻 E estou cursando o último semestre de Desenvolvimento de Sistemas na Etec Getúlio Vargas 
+💻 E sou Tecnica em Desenvolvimento de Sistemas, pela ETEC Getúlio Vargas.
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
