@@ -1,14 +1,22 @@
-### Oie sou a Maria Eduarda, sou estudante de big data e desenvolvimento de sistemas 👋
+👋 Oiee, eu sou Duda!
 
-🚀 Eu sou estágiaria em uma empresa de consultória tributária na área de TI
- 
-📚 Sou estudante de big data para negócios na Fatec Ipiranga 
- 
-💻 E sou Tecnica em Desenvolvimento de Sistemas, pela ETEC Getúlio Vargas.
+💼 Atualmente, sou estagiária em Performace Operacional na [empresa/organização].
 
-<div align="left">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudapichum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+📚 Estudante de Big Data para Negócios na Fatec Ipiranga 
+ 
+💻 Tecnica em Desenvolvimento de Sistemas, pela ETEC Getúlio Vargas.
+
+🔧 Minhas habilidades incluem:
+  - Análise de sistemas.
+  - Banco de Dados sql/nosql.
+  - Data Analytics.
+  - Power BI
+
+📈 Tenho orgulho de ter participado de alguna projetos acadêmicos, e ter a oportinidade de me desenvolver.
+
+🌐 Estou aberto(a) a novas oportunidades e colaborações. Vamos conectar e trocar ideias!
+
+
+
 
 
